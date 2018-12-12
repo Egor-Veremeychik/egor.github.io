@@ -1,9 +1,10 @@
 {
     "applinks": {
         "apps": [],
-        "details": [{
+        "details": [
+			{
             "appID": "K9DB44ZTV5.com.effective-soft.Temtum",
-            "paths": [“*”]
+            "paths": ["*"]
             }]
     }
 }
