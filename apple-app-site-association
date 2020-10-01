@@ -2,9 +2,10 @@
     "applinks": {
         "apps": [],
         "details": [
-			{
-            "appID": "K9DB44ZTV5.com.effective-soft.Temtum",
-            "paths": ["*"]
-            }]
+            {
+                "appID": "MDU99CRA9R.com.socialsuperstore.debug",
+                "paths": ["*"]
+            }
+        ]
     }
 }
