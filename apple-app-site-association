@@ -4,7 +4,7 @@
         "details": [
             {
                 "appID": "MDU99CRA9R.com.socialsuperstore.debug",
-                "paths": ["*"]
+                "paths": ["/egor.github.io/*", "/*"]
             }
         ]
     }
